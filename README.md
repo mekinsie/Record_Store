@@ -6,6 +6,7 @@ This project provides complete CRUD functionality along with routing for a recor
 
 ## Technologies Used
 * Ruby
+* HTML
 * Sinatra
 
 ## License
